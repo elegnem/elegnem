@@ -1,1 +1,4 @@
-r
+| Best candidate  | AFND frequency pattern                                                                                                                                                                                                                                                     |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **HLA-B*42:01** | Median allele frequency about **7.5%** across qualifying African datasets, versus **0.04%** among positive European reports. African frequencies include Ghana 11.1%, Kenyan Luo 11.5%, Zulu 12.0%, Uganda 6.3%, and Zimbabwe 6.9%. European reports were generally ≤0.1%. |
+| **HLA-A*30:02** | Median about **8.3%** in African datasets, including Senegal 12.4%, Zimbabwe 14.7%, Cameroon 9.5%, Ghana 7.3%, and Uganda 8.3%. Chinese datasets were approximately **0.02–0.4%**.                                                                                         |
