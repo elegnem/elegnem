@@ -1,3 +1,9 @@
+Definition (peptide–HLA-targeted T-cell engager). 
+
+A peptide–HLA-targeted T-cell engager is a bispecific protein drug that binds a specified peptide presented by a specified human leukocyte antigen (HLA) molecule on one cell and CD3 on a T cell. By bridging the two cells, it activates the T cell, which can release cytotoxic and inflammatory molecules against the peptide–HLA-bearing cell.
+
+The agent is HLA-restricted because it acts only where its chosen peptide is presented by its chosen HLA allele. Its selectivity therefore depends on the full peptide–HLA combination, not on the HLA allele alone. If healthy cells display the same combination, they can also be attacked.
+
 
 | Tier          | HLA allele                                                                     | Median SSA allele frequency | Approx. SSA carriers | Highest Europe frequency | Highest China frequency | Best interpretation                                                          |
 | ------------- | ------------------------------------------------------------------------------ | --------------------------: | -------------------: | -----------------------: | ----------------------: | ---------------------------------------------------------------------------- |
