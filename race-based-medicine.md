@@ -9,7 +9,7 @@ An HLA allele can act as a strong probabilistic population discriminator. What i
 
 For example, using the table's `HLA-B*42:01` figures:
 
-* **SSA allele frequency:** 7.5%, corresponding to approximately 14.4% carriers
+* **Sub Saharan Africa allele frequency:** 7.5%, corresponding to approximately 14.4% carriers
 * **European allele frequency:** 0.1%, corresponding to approximately 0.2% carriers
 * **Carrier-frequency ratio:** approximately 72:1
 
