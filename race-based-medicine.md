@@ -1,4 +1,3 @@
-Here’s the combined table. It includes the original findings and the additional candidates, using consistent definitions.
 
 | Tier          | HLA allele                                                                     | Median SSA allele frequency | Approx. SSA carriers | Highest Europe frequency | Highest China frequency | Best interpretation                                                          |
 | ------------- | ------------------------------------------------------------------------------ | --------------------------: | -------------------: | -----------------------: | ----------------------: | ---------------------------------------------------------------------------- |
