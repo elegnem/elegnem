@@ -1,8 +1,45 @@
-Definition (peptide–HLA-targeted T-cell engager). 
+# Definition (peptide–HLA-targeted T-cell engager). #
 
 A peptide–HLA-targeted T-cell engager is a bispecific protein drug that binds a specified peptide presented by a specified human leukocyte antigen (HLA) molecule on one cell and CD3 on a T cell. By bridging the two cells, it activates the T cell, which can release cytotoxic and inflammatory molecules against the peptide–HLA-bearing cell.
 
 The agent is HLA-restricted because it acts only where its chosen peptide is presented by its chosen HLA allele. Its selectivity therefore depends on the full peptide–HLA combination, not on the HLA allele alone. If healthy cells display the same combination, they can also be attacked.
+
+
+An HLA allele can act as a strong probabilistic population discriminator. What it usually cannot provide is both near-complete population coverage and near-perfect exclusion of other populations.
+
+For example, using the table's `HLA-B*42:01` figures:
+
+* **SSA allele frequency:** 7.5%, corresponding to approximately 14.4% carriers
+* **European allele frequency:** 0.1%, corresponding to approximately 0.2% carriers
+* **Carrier-frequency ratio:** approximately 72:1
+
+With equally sized SSA and European groups:
+
+$$
+\frac{14.4}{14.4 + 0.2} = 98.6%
+$$
+
+Approximately 98.6% of `HLA-B*42:01` carriers would come from the SSA group. That is strong statistical discrimination.
+
+However, precision and population coverage are different:
+
+| Property                          | `HLA-B*42:01` example |
+| --------------------------------- | --------------------: |
+| Precision under equal group sizes |   Approximately 98.6% |
+| SSA population covered            |   Approximately 14.4% |
+| SSA population missed             |   Approximately 85.6% |
+| European population affected      |    Approximately 0.2% |
+
+Precision also depends on the populations' relative sizes. If the screened population were 10% SSA and 90% European, the same frequencies would produce approximately 89% precision. At 1% SSA and 99% European, precision would fall to roughly 42%.
+
+For a peptide–HLA engager, there is a second distinction: the allele can statistically select carriers, but the drug binds the complete peptide–HLA complex. Biological targeting therefore requires both the allele and presentation of the chosen peptide.
+
+The accurate statement is:
+
+> An HLA allele can provide strong probabilistic enrichment for ancestry-associated populations, sometimes with very high specificity between selected comparison groups. It rarely provides both broad coverage of the target population and complete exclusion of other populations, and a peptide–HLA therapeutic additionally requires presentation of the target peptide.
+
+That statistical enrichment is exactly why the table has genuine dual-use significance.
+
 
 
 ## Sub-Saharan Africa
